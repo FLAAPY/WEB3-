@@ -28,7 +28,7 @@ const array1 = Array.slice(1,4)
 console.log(array1);
 
 console.log("B",Array);
-const array2 = Array.splice(1,4)
+const array2 = Array.splice(1,4) //splice operation manipulate the original array 
 console.log("C", Array);
 console.log(Array);
 
